@@ -1,0 +1,2 @@
+Git laboratory work.
+This file was created to practise Git branches and commits.
