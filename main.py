@@ -3,4 +3,4 @@ b = int(input("Enter the second int: "))
 
 print("First number:", a)
 print("Second number:", b)
-print("Sum:", a + b)
+print("Difference:", a - b)
